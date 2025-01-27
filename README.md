@@ -7,9 +7,9 @@ To review the listening habits using the given Spotify streaming history dataset
 The data contains Spotify user's complete music streaming history data, including timestamps, track, artists, album names, reasons for playing and ending each track.
 ## Insights
 - Summary (2013 - 2024):
-  Total artists - 4112
-  Total albums - 7907
-  Total tracks - 16527
+  Total artists - 4112, Most listened Artist - The Beatles
+  Total albums - 7907, Most Listened Album - The New Abnormal
+  Total tracks - 16527, Most Listened Track - Ode To The Mets
   Total tracks streamed - 149860
   Total listening time (Hrs) - 5.34 K
   Average listening time (Mins) - 19.39
